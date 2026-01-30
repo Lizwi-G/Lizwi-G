@@ -9,7 +9,7 @@ Software Developer with 5+ years experience in:
 📌 Featured Projects:
 - Nemato CRM System
 - Rangers Educational App
-- Imbizo Web Platform
+- Imbizo Group Web Platforms
 
 🔭 I’m currently developing an AI-powered homework assistance app that processes learner queries and retrieves topic-specific explainer videos for concept mastery.
 The system supports optional video persistence per topic to enable structured revision and personalized learning.
