@@ -15,7 +15,7 @@ Software Developer with 5+ years experience in:
 The system supports optional video persistence per topic to enable structured revision and personalized learning.
 
 - 🌱 I’m currently learning ...
-NLP & semantic search for question understanding,
+- NLP & semantic search for question understanding,
 AI-driven content retrieval & recommendations,
 Curriculum-aligned knowledge modeling,
 Scalable backend systems for EdTech,
